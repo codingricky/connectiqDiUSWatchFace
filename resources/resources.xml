@@ -1,0 +1,9 @@
+<resources>
+    <string id="AppName">DiUSWatchFace</string>
+
+    <bitmaps>
+    	<bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+    	<bitmap id="id_logo" filename="images/dius.png" />
+    </bitmaps>
+
+</resources>
